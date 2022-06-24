@@ -3,8 +3,8 @@
 ## Homepage
 title = "Movement"
 titleSeparator = "-"
-titleAddition = "A Modern Fundraising Platform"
-description = "Movement uses web3 technology to make philanthropy sustainable."
+titleAddition = "MOVE Docs"
+description = "Using web3 technology to make high-impact philanthropy sustainable."
 
 ## Documentation
 # docsVersion = "0.3"
@@ -68,7 +68,7 @@ alertText = "These docs are in progress! <a class=\"alert-link stretched-link\" 
 # repoHost [Github | Gitea | GitLab | Bitbucket | BitbucketServer ] is used for building the edit link based on git hoster
 repoHost = "GitHub"
 #repoHost = "Gitea"
-docsRepo = "https://github.com/h-enk/doks"
+docsRepo = "https://github.com/filipv-eth/move-docs"
 docsRepoBranch = "master"
 docsRepoSubPath = ""
 editPage = false
