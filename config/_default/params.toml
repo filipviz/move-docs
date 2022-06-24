@@ -1,0 +1,94 @@
+# Meta Data for SEO
+
+## Homepage
+title = "Movement"
+titleSeparator = "-"
+titleAddition = "A Modern Fundraising Platform"
+description = "Movement uses web3 technology to make philanthropy sustainable."
+
+## Documentation
+# docsVersion = "0.3"
+
+## Open Graph
+images = ["move.png"]
+ogLocale = "en_US"
+domainTLD = "docs.move.xyz"
+titleHome = "Movement Docs"
+
+## Twitter Cards
+twitterSite = "@move_xyz"
+twitterCreator = "@move_xyz"
+
+## JSON-LD
+# schemaType = "Person"
+schemaType = "Organization"
+schemaName = "Movement"
+schemaAuthor = "Movement DAO"
+schemaAuthorTwitter = "https://twitter.com/move_xyz"
+schemaAuthorLinkedIn = ""
+schemaAuthorGitHub = "https://github.com/themovementdao"
+schemaLocale = "en-US"
+schemaLogo = "logo-move.png"
+schemaLogoWidth = 512
+schemaLogoHeight = 512
+schemaImage = "move.png"
+schemaImageWidth = 779
+schemaImageHeight = 438
+schemaTwitter = "https://twitter.com/move_xyz"
+schemaLinkedIn = ""
+schemaGitHub = "https://github.com/themovementdao"
+schemaSection = "blog"
+
+## Sitelinks Search Box
+siteLinksSearchBox = false
+
+## Chrome Browser
+themeColor = "#fff"
+
+# Images
+quality = 85
+bgColor = "#fff"
+landscapePhotoWidths = [900, 800, 700, 600, 500]
+portraitPhotoWidths = [800, 700, 600, 500]
+lqipWidth = "20x"
+smallLimit = "300"
+
+# Footer
+footer = "Powered by <a class=\"text-muted\" href=\"https://gohugo.io/\">Hugo</a> and <a class=\"text-muted\" href=\"https://getdoks.org/\">Doks</a>"
+
+# Feed
+copyRight = "Copyright (c) 2022 Movement DAO"
+
+# Alert
+alert = true
+alertDismissable = true
+alertText = "These docs are in progress! <a class=\"alert-link stretched-link\" href=\"https://discord.gg/movexyz/\">Join our Discord to contribute.</a>"
+
+# Edit Page
+# repoHost [Github | Gitea | GitLab | Bitbucket | BitbucketServer ] is used for building the edit link based on git hoster
+repoHost = "GitHub"
+#repoHost = "Gitea"
+docsRepo = "https://github.com/h-enk/doks"
+docsRepoBranch = "master"
+docsRepoSubPath = ""
+editPage = false
+lastMod = false
+
+[options]
+  lazySizes = true
+  clipBoard = true
+  instantPage = true
+  flexSearch = true
+  darkMode = true
+  bootStrapJs = true
+  breadCrumb = false
+  highLight = true
+  kaTex = false
+  multilingualMode = false
+  docsVersioning = false
+  fullWidth = false
+
+[menu]
+  [menu.section]
+    auto = true
+    collapsibleSidebar = true
