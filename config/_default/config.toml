@@ -88,7 +88,7 @@ rel  = "sitemap"
     source = "node_modules/@hyas/doks/layouts"
     target = "layouts"
   [[module.mounts]]
-    source = "node_modules/@hyas/doks/static"
+    source = "static"
     target = "static"
   [[module.mounts]]
     source = "node_modules/flexsearch"
