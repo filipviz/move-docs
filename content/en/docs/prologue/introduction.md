@@ -15,4 +15,4 @@ toc: true
 
 ## Get started
 
-Text text text this is an example page
+The Move docs are in progress. More information will be coming soon—join our [Discord](https://discord.gg/movexyz) to contribute!

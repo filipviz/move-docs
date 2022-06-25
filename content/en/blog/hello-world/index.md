@@ -10,24 +10,7 @@ images: ["hello-world.jpg"]
 contributors: [filipv]
 ---
 
-# Example text
+# Hello World!
 
-Welcome to Move DAO, this is a blog post which demonstrates what the blog will look like.
+This is the first post on the Move blog! More posts coming soon—join our [Discord](https://discord.gg/movexyz) to contribute.
 
-*Italic text* here is some **bold text**
-
-## H2 title
-
-```markdown
----
-title: "Hello World"
-description: ""
-lead: ""
-date: 2022-06-24T12:39:26-04:00
-lastmod: 2022-06-24T12:39:26-04:00
-draft: true
-weight: 50
-images: ["hello-world.jpg"]
-contributors: []
----
-```
