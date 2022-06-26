@@ -57,12 +57,12 @@
   url = "https://move.xyz"
   parent = "get-started"
 
-[[main]]
-  name = "Tutorial"
-  weight = 50
-  identifier = "tutorial"
-  url = "https://filip.world"
-  parent = "get-started"
+# [[main]]
+#   name = "Tutorial"
+#   weight = 50
+#   identifier = "tutorial"
+#   url = "https://filip.world"
+#   parent = "get-started"
 
 [[social]]
   name = "GitHub"
