@@ -1,5 +1,5 @@
 ---
-title: "Docs"
+title: "Movement DAO"
 description: "Test description."
 lead: "Test lead."
 date: 2022-01-25T14:40:56+01:00
