@@ -15,7 +15,6 @@ weight: 50
 # Proposal Title
 
 ```
-Title:
 Author:
 Creation Date: (YYYY-MM-DD)
 ```

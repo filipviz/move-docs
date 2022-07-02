@@ -1,7 +1,6 @@
-# Title Here
+# Proposal Title
 
 ```
-Title:
 Author:
 Creation Date: (YYYY-MM-DD)
 ```
