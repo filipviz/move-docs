@@ -1,9 +1,7 @@
 ---
 title: "Governance Process"
-description: "Movement DAO is governed by its community, as expressed through token voting."
-lead: "Movement DAO is governed by its community, as expressed through token voting."
-date: 2022-07-01
-lastmod: 2022-07-01
+description: "Movement DAO is governed by its community, as expressed through MAPE token voting."
+lead: "Movement DAO is governed by its community, as expressed through MAPE token voting."
 draft: false
 images: []
 menu:
@@ -11,7 +9,6 @@ menu:
     parent: "dao"
 weight: 40
 ---
-
 
 ## Phase 0: Discussion
 
@@ -23,11 +20,11 @@ Once finalized, authors can submit their proposals to Movement DAO's [Temperatur
 
 ## Phase 2: Consensus
 
-Every 14 days, proposals with at least 20 "For" votes in the [Temperature Check Space](https://snapshot.org/#/movedao.eth) are moved to Movement DAO's [Consensus Space](https://snapshot.org/#/snapshot.movedao.eth) as basic single choice votes which last seven days.
+Every 14 days, proposals with at least 50 "For" votes in the [Temperature Check Space](https://snapshot.org/#/movedao.eth) are moved to Movement DAO's [Consensus Space](https://snapshot.org/#/snapshot.movedao.eth) as basic single choice votes which last seven days.
 
 ## Phase 3: Execution
 
-Proposals with more than 66% "For" votes are queued for execution by the Movement Multisig. "Abstain" votes are not included in this calculation.
+Proposals with more than 66% "For" votes are queued for execution by the [Movement Multisig](../multisig). "Abstain" votes are not included in this calculation.
 
 ## Emergency Governance
 

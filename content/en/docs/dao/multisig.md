@@ -2,8 +2,6 @@
 title: "Multisig"
 description: "The Movement Multisig is responsible for custody of Movement DAO's treasury and the execution of onchain Movement Multisig actions described in Movement DAO governance proposals."
 lead: "The Movement Multisig is responsible for custody of Movement DAO's treasury and the execution of onchain Movement Multisig actions described in Movement DAO governance proposals."
-date: 2022-07-01
-lastmod: 2022-07-01
 draft: false
 images: []
 menu:
