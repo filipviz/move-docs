@@ -12,7 +12,7 @@ weight: 40
 
 ## Phase 0: Discussion
 
-Proposal authors are encouraged to create a discussion thread in the [Movement DAO Discord Server](https://discord.gg/movexyz) to workshop proposals. See [How to Create a Proposal](/) for best practices.
+Proposal authors are encouraged to create a discussion thread in the [Movement DAO Discord Server](https://discord.gg/movexyz) to workshop proposals. See [How to Create a Proposal](../proposals) for best practices.
 
 ## Phase 1: Temperature Check
 
