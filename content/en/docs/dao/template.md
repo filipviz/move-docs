@@ -1,6 +1,7 @@
 ---
 title: "Proposal Template"
-description: ""
+description: "Authors are advised to consider how their proposal will be executed in detail. This template is a suggestion—proposal authors can deviate from it."
+lead: "Authors are advised to consider how their proposal will be executed in detail. This template is a suggestion—proposal authors can deviate from it."
 date: 2022-07-01
 lastmod: 2022-07-01
 draft: false
@@ -13,39 +14,33 @@ weight: 50
 
 # Movement DAO Proposal Guide
 
-**Proposals should be comprehensive, specific, and readable. Proposals must clearly and specifically delineate any multisig actions. Sections can be added and removed as needed.**
 
 ```
-Title: *Proposal title*
-Author: *Author name*
-Creation Date: *YYYY-MM-DD*
-ID: *To be added in the voting stage*
+Title:
+Author:
+Creation Date: (YYYY-MM-DD)
 ```
 
-## Thesis:
+## Thesis
 
-*A one-sentence overview of your proposal.*
+*A one-sentence proposal overview.*
 
-## Motivation:
+## Motivation
 
-*Should clearly explain why the existing process/specification is inadequate to address the problem that this proposal solves.*
+*Why now? What problems does this solve?*
 
-## Abstract:
+## Specification
 
-*A short and human-readable version of the specification. Someone should be able to read the abstract to get the gist of what this proposal does.*
+*How exactly will this be executed? Be specific and leave no ambiguity.*
 
-## Specification:
+## Rationale
 
-*Proposals must delineate specific actions to be taken by the multisig or DAO members. This section should be detailed and comprehensive.*
+*Why is this specification the best way to address the problems?*
 
-## Rationale:
+## Risks
 
-*Justification for the specification section (i.e. why this specification?)*
+*What could go wrong?*
 
-## Risks:
+## Timeline
 
-*Risk implications/considerations relevant to the proposed change.*
-
-## Timeline:
-
-*Specification timeline. A sunset clause is recommended.*
+*When should this proposal take effect? When should this proposal end?*

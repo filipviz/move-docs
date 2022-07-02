@@ -52,16 +52,11 @@
 
 
 [[footer]]
-  name = "Movement"
+  name = "Move"
   url = "https://move.xyz/"
   weight = 10
 
 [[footer]]
   name = "Discord"
   url = "https://discord.gg/movexyz"
-  weight = 30
-
-[[footer]]
-  name = "Snapshot"
-  url = "https://snapshot.org/#/movedao.eth"
   weight = 20

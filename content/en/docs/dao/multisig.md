@@ -1,6 +1,7 @@
 ---
-title: "Multisig Process"
-description: ""
+title: "Multisig"
+description: "The Movement Multisig is responsible for custody of Movement DAO's treasury and the execution of onchain Movement Multisig actions described in Movement DAO governance proposals."
+lead: "The Movement Multisig is responsible for custody of Movement DAO's treasury and the execution of onchain Movement Multisig actions described in Movement DAO governance proposals."
 date: 2022-07-01
 lastmod: 2022-07-01
 draft: false
@@ -8,12 +9,14 @@ images: []
 menu:
   docs:
     parent: "dao"
-weight: 40
+weight: 30
 ---
 
-# Movement DAO Multisig Process
+## Definition
 
-The Movement DAO multisignature wallet ("Movement Multisig") is a Gnosis Safe at ms.movedao.eth (mainnet:0x143cC0A996De329C1C5723Ee4F15D2a40c1203c6). The Movement Multisig is responsible for custody of Movement DAO's treasury and the execution of onchain Movement Multisig actions described in Movement DAO governance proposals.
+The Movement DAO multisignature wallet ("Movement Multisig") is a Gnosis Safe at ms.movedao.eth (mainnet:0x143cC0A996De329C1C5723Ee4F15D2a40c1203c6). 
+
+## Guidelines
 
 Movement Multisig Safe Owners ("Multisig members") must agree to abide by the following principles:
 
@@ -21,4 +24,4 @@ Movement Multisig Safe Owners ("Multisig members") must agree to abide by the fo
 2. The Movement Multisig must maintain a Safe threshold equal to or greater than 60 percent of the number of Multisig members.
 3. All Movement Multisig transactions must be in accordance with the Movement DAO governance process.
 
-Multisig members in violation of these principles are to be removed from the Movement Multisig.
+Multisig members in violation of these principles are to be removed from the Movement Multisig at the discretion of dao-lawfirm.eth.

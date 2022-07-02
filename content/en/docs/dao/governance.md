@@ -1,6 +1,7 @@
 ---
 title: "Governance Process"
-description: ""
+description: "Movement DAO is governed by its community, as expressed through token voting."
+lead: "Movement DAO is governed by its community, as expressed through token voting."
 date: 2022-07-01
 lastmod: 2022-07-01
 draft: false
@@ -8,24 +9,21 @@ images: []
 menu:
   docs:
     parent: "dao"
-weight: 30
+weight: 40
 ---
 
-# Movement DAO Governance Process
 
-Movement DAO is governed by its community, as expressed through token voting.
-
-## Phase 0: Ideation
+## Phase 0: Discussion
 
 Proposal authors are encouraged to create a discussion thread in the [Movement DAO Discord Server](https://discord.gg/movexyz) to workshop proposals. See [How to Create a Proposal](/) for best practices.
 
-## Phase 1: Proposal Space
+## Phase 1: Temperature Check
 
-Once finalized, authors can submit their proposals to Movement DAO's [Proposal Space](/). As the legal custodian of Movement DAO, dao-lawfirm.eth maintains the right to revoke proposals which endanger the Movement Endowment during this stage. After 45 days, proposals in this stage will be archived.
+Once finalized, authors can submit their proposals to Movement DAO's [Temperature Check Space](https://snapshot.org/#/movedao.eth). As the legal custodian of Movement DAO, dao-lawfirm.eth maintains the right to revoke proposals which endanger the Movement Endowment during this stage. After 45 days, proposals in this stage will be archived.
 
 ## Phase 2: Consensus
 
-Every 14 days, proposals with at least 20 "For" votes in the [Proposal Space](/) are moved to Movement DAO's [Consensus Space](/) as basic single choice votes which last seven day
+Every 14 days, proposals with at least 20 "For" votes in the [Temperature Check Space](https://snapshot.org/#/movedao.eth) are moved to Movement DAO's [Consensus Space](https://snapshot.org/#/snapshot.movedao.eth) as basic single choice votes which last seven days.
 
 ## Phase 3: Execution
 
