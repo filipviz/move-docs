@@ -1,7 +1,7 @@
 ---
 title: "Proposal Template"
 description: "Authors are advised to consider how their proposal will be executed in detail. This template is a suggestion—proposal authors can deviate from it."
-lead: "Authors are advised to consider how their proposal will be executed in detail. This template is a suggestion—proposal authors can deviate from it."
+lead: "Authors are advised to consider how their proposal will be executed in detail. This template is a suggestion—proposal authors can deviate from it.<a href=/downloads/template.md> Download here.</a>"
 date: 2022-07-01
 lastmod: 2022-07-01
 draft: false
@@ -11,9 +11,8 @@ menu:
     parent: "dao"
 weight: 50
 ---
-
-# Movement DAO Proposal Guide
-
+---
+# Proposal Title
 
 ```
 Title:
