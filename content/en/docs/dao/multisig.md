@@ -18,8 +18,8 @@ The Movement DAO multisignature wallet ("Movement Multisig") is a Gnosis Safe at
 
 Movement Multisig Safe Owners ("Multisig members") must agree to abide by the following principles:
 
-1. Multisig members agree to act in accordance with the will of Movement DAO, as expressed through the Movement DAO governance process.
+1. Multisig members agree to act in accordance with the will of Movement DAO, as expressed through Movement DAO's [governance process](../governance).
 2. The Movement Multisig must maintain a Safe threshold equal to or greater than 60 percent of the number of Multisig members.
 3. All Movement Multisig transactions must be in accordance with the Movement DAO governance process.
 
-Multisig members in violation of these principles are to be removed from the Movement Multisig at the discretion of dao-lawfirm.eth.
+Multisig members in violation of these principles are to be removed from the Movement Multisig, at the discretion of dao-lawfirm.eth.

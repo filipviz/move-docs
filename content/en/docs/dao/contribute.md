@@ -24,7 +24,6 @@ Contributors who have completed one or more trial payouts are advised to propose
 
 ## Next Steps
 
-1. Join the [Discord](https://discord.gg/movexyz/).
-2. Read recent Discord messages and [governance proposals](https://snapshot.org/#/snapshot.movedao.eth) to familiarize yourself with high level ongoing projects.
-3. Reach out to active contributors in channels related to areas you would like to contribute to. Ask what you can help with or propose new objectives for the DAO.
-4. Participate in the DAO for 1-2 weeks before proposing a payout.
+1. Read recent [Discord](https://discord.gg/movexyz) messages and [governance proposals](https://snapshot.org/#/snapshot.movedao.eth) to familiarize yourself with high level ongoing projects.
+2. Reach out to active contributors in channels related to areas you would like to contribute to. Ask what you can help with or propose new objectives for the DAO.
+3. Participate in the DAO for 1-2 weeks before proposing a payout.
