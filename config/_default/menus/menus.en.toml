@@ -1,5 +1,5 @@
 [[main]]
-  name = "DAO"
+  name = "Docs"
   url = "/docs/dao/intro/"
   weight = 10
 
@@ -26,16 +26,16 @@
   parent = "resource"
 
 [[docs]]
-  name = "DAO"
+  name = "Movement DAO"
   weight = 10
   identifier = "dao"
   url = "/docs/dao/"
 
 [[docs]]
-  name = "Guides"
+  name = "Peace DAO"
   weight = 20
-  identifier = "guide"
-  url = "/docs/guide/"
+  identifier = "peace"
+  url = "/docs/peace/"
 
 [[social]]
   name = "GitHub"
