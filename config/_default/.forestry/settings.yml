@@ -11,6 +11,8 @@ sections:
   match: "**/*"
   exclude: _index.md
   new_doc_ext: md
+  templates:
+  - blog-post
 - type: directory
   path: content/en/docs
   label: Docs
@@ -18,11 +20,8 @@ sections:
   match: "**/*"
   exclude: _index.md
   new_doc_ext: md
-- type: directory
-  path: config/_default/content
-  label: Pages
-  create: all
-  match: "*"
+  templates:
+  - docs-page
 upload_dir: config/_default/static/uploads
 public_path: "/uploads"
 front_matter_path: ''
