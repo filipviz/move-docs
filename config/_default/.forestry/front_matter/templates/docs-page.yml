@@ -17,3 +17,4 @@ fields:
 - type: number
   name: weight
   label: weight
+  description: Sorting weight. A lower number will appear earlier in lists and sidebars.
