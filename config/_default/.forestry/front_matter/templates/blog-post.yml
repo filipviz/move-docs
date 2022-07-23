@@ -14,12 +14,6 @@ fields:
 - type: datetime
   name: date
   label: date
-- type: datetime
-  name: lastmod
-  label: lastmod
-- type: number
-  name: weight
-  label: weight
 - type: image_gallery
   name: images
   label: images
