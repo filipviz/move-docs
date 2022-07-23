@@ -57,3 +57,9 @@ Confirm that you have read the warnings by clicking `Pay`. At this point, a Meta
 **Thank you for your donation.** Tokens will be issued to your wallet automatically. To learn how you can use tokens and participate in the DAO, read [part two of this guide](../join).
 
 *Note: All Ethereum transactions invoke "gas fees" which pay to maintain the Ethereum network. Metamask will automatically calculate your gas fee—exercise caution when editing this number, as it may cause your transaction to fail.*
+
+## Video Guide
+
+A video version of this article:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vfcxAccVeok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="img-responsive center-block d-block mx-auto"></iframe>
