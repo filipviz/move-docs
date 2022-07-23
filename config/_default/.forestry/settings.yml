@@ -4,17 +4,20 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
-- type: document
+- type: directory
   path: content/en/blog
   label: Blog
+  create: all
   match: "**/*"
+  exclude: _index.md
+  new_doc_ext: ".md"
 - type: directory
   path: content/en/docs
   label: Docs
   create: all
   match: "**/*"
   exclude: _index.md
-  new_doc_ext: ".md"
+  new_doc_ext: md
 - type: directory
   path: config/_default/content
   label: Pages
