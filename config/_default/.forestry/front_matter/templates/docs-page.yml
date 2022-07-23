@@ -1,0 +1,19 @@
+---
+label: Docs page
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: textarea
+  name: description
+  label: description
+- type: textarea
+  name: lead
+  label: lead
+- type: list
+  name: images
+  label: images
+- type: number
+  name: weight
+  label: weight
