@@ -32,7 +32,7 @@ build:
   - HUGO_VERSION=0.99.0
   preview_output_directory: public
   install_dependencies_command: npm install
-  preview_docker_image: forestryio/hugo:node16
+  preview_docker_image: fleek/hugo-v0.85:node-latest
   mount_path: "/srv"
   instant_preview_command: hugo server -D -E -F --renderToDisk -d public
 version: 0.81.0
