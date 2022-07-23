@@ -30,8 +30,9 @@ file_template: ":filename:"
 build:
   preview_output_directory: public
   install_dependencies_command: npm install
-  preview_docker_image: forestryio/node:16
+  preview_docker_image: forestryio/hugo:node16
   mount_path: "/srv"
   working_dir: "/srv"
-  instant_preview_command: npm run build
+  instant_preview_command: 'instant_preview_command: hugo server -D -E -F --renderToDisk
+    -d public'
 version: 0.81.0
