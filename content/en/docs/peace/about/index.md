@@ -1,10 +1,9 @@
 ---
 title: About
-lead: An introduction to Peace DAO and our mission.
+lead: "An introduction to Peace DAO and our mission."
+description: "An introduction to Peace DAO and our mission."
 images: []
 weight: 5
-draft: true
-
 ---
 ## The Peace Movement DAO
 
