@@ -7,8 +7,6 @@ weight: 5
 ---
 ## The Peace Movement DAO
 
-Hello, this is an _example_ edit.![](/images/img_0899_2-png.png)
-
 The Peace Movement DAO's purpose is to fund life-saving assistance and support for Ukranian refugees and displaced people. The DAO is providing immediate support for Ukranians facing humanitarian crises, and will continue to provide support as they rebuild their lives.
 
 Peace DAO is democratically governed by its community, **radically reducing overhead and maximizing impact**.

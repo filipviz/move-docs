@@ -11,7 +11,7 @@ menu:
     parent: "dao"
 weight: 50
 ---
----
+
 # Proposal Title
 
 ```
