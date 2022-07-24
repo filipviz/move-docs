@@ -29,7 +29,7 @@ use_front_matter_path: false
 file_template: ":filename:"
 build:
   preview_env:
-  - HUGO_VERSION=0.99.0
+  - HUGO_VERSION=0.98.0
   - HUGO_ENV=staging
   preview_output_directory: public
   install_dependencies_command: npm install
