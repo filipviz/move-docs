@@ -12,7 +12,8 @@ fields:
 - type: text
   name: lead
   label: lead
-  description: Appears below the title. Hook, introduction, or subtitle.
+  description: Appears below the title. Can be used as a hook, an introduction, or
+    a subtitle.
 - name: tags
   type: list
   config:
@@ -23,6 +24,7 @@ fields:
 - type: datetime
   name: date
   label: date
+  description: Publishing date.
 - type: list
   name: contributors
   label: contributors
