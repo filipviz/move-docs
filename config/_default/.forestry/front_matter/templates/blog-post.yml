@@ -1,0 +1,29 @@
+---
+label: Blog post
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: description
+  label: description
+  description: Description for search engines and other indexers.
+- type: text
+  name: lead
+  label: lead
+  description: Appears below the title. Hook, introduction, or subtitle.
+- name: tags
+  type: list
+  config:
+    use_select: false
+    min: 
+    max: 
+  label: tags
+- type: datetime
+  name: date
+  label: date
+- type: list
+  name: contributors
+  label: contributors
+  description: Authors.

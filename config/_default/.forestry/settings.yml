@@ -5,10 +5,21 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
-  path: config/_default/content
-  label: Pages
+  path: content/en/blog
+  label: Blog
   create: all
-  match: "*"
+  match: "**/*"
+  new_doc_ext: md
+  templates:
+  - blog-post
+- type: directory
+  path: content/en/docs
+  label: Docs
+  create: all
+  match: "**/*"
+  new_doc_ext: md
+  templates:
+  - docs-page
 upload_dir: config/_default/static/uploads
 public_path: "/uploads"
 front_matter_path: ''
@@ -19,8 +30,9 @@ build:
   - HUGO_ENV=staging
   - HUGO_VERSION=0.81.0
   preview_output_directory: public
-  preview_docker_image: forestryio/hugo:latest
+  install_dependencies_command: npm install
+  preview_docker_image: forestryio/hugo:node16
   mount_path: "/srv"
   working_dir: "/srv"
-  instant_preview_command: hugo server -D -E -F --renderToDisk -d public
+  instant_preview_command: hugo server -D -E -F --bind=0.0.0.0 --renderToDisk -d public
 version: 0.81.0
