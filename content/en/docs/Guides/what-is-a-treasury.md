@@ -1,10 +1,10 @@
 +++
-description = "Treasuries are where digital assets are stored and can be managed from, where the assets are managed by more than one party, usually in the form of a multi-signature wallet. Generally, treasuries are managed or directed by a group of people that own governance tokens that represent an amount of decision-making authority over a treasury’s assets. "
+description = "Treasuries are where digital assets are stored and can be managed from, usually in the form of a multi-signature wallet, and are governed by token holders. "
 draft = true
 images = []
-lead = "Treasuries are where digital assets are stored and can be managed from, where the assets are managed by more than one party, usually in the form of a multi-signature wallet. Generally, treasuries are managed or directed by a group of people that own governance tokens that represent an amount of decision-making authority over a treasury’s assets. "
+lead = ""
 title = "What is a Treasury?"
-weight = 30
+weight = 1
 
 +++
 # Definition
