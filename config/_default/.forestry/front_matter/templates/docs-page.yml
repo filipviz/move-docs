@@ -8,7 +8,8 @@ fields:
 - type: textarea
   name: description
   label: description
-  description: Page description used by search engines and other indexers.
+  description: Description for search engines and other indexers. Utilize keywords,
+    summarize page, 140-156 characters long.
 - type: textarea
   name: lead
   label: lead
