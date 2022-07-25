@@ -18,3 +18,5 @@ fields:
   name: weight
   label: weight
   description: Sorting weight. A lower number will appear earlier in lists and sidebars.
+pages:
+- content/en/docs/Guides/what-is-a-treasury.md
