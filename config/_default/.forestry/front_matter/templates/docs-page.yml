@@ -8,15 +8,14 @@ fields:
 - type: textarea
   name: description
   label: description
+  description: Page description used by search engines and other indexers.
 - type: textarea
   name: lead
   label: lead
-- type: list
-  name: images
-  label: images
+  description: Appears below the title. Can be a hook, an introduction, or a subtitle.
 - type: number
   name: weight
   label: weight
-  description: Sorting weight. A lower number will appear earlier in lists and sidebars.
+  description: A lower number will appear earlier in lists and sidebars.
 pages:
 - content/en/docs/Guides/what-is-a-treasury.md
