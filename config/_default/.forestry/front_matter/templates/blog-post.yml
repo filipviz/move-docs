@@ -8,7 +8,8 @@ fields:
 - type: text
   name: description
   label: description
-  description: Description for search engines and other indexers.
+  description: Description for search engines and other indexers. Utilize keywords,
+    summarize page, 140-156 characters long.
 - type: text
   name: lead
   label: lead
