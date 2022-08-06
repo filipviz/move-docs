@@ -63,7 +63,7 @@ The Endowment Treasury[^1] is a Gnosis Safe which receives funds from the DAO's 
 The Operational Treasury[^2] shall receive 5% percent of all assets, or the equivalent value in ETH or DAI, contributed to the Endowment Treasury, and may receive additional funds because of a Proposal. The Operational Treasury shall receive 10% of reserved tokens the Endowment Treasury receives from the DAO's Juicebox Project. The Council may utilize the Operational Treasury at their discretion, but must abide by ratified Proposals.
 
 [^1]: The Endowment Treasury Gnosis Multi-Signature Safe can be found on the Ethereum mainnet at `0xD2427c0e44D28Ea74c0504E072c6073d135569B2`.
-[^2]: The Operation Treasury Gnosis Multi-Signature Safe can be found on the Ethereum mainnet at 
+[^2]: The Operation Treasury Gnosis Multi-Signature Safe can be found on the Ethereum mainnet at `0xD2427c0e44D28Ea74c0504E072c6073d135569B2`
 [^3]: Peace Movement DAO's Mainnet Ethereum NFT: `0x1c43E7Fb2885d9FF4403521eAE41d7943F7f51Ee` [*OpenSea*](https://opensea.io/collection/peace-dao-distortion-v2).
 [^4]: Peace Movement DAO's Mainnet Ethereum Token: `0xdE43304bD02E5517a1B646179eb9612b5d58E6A1`
 [^5]: See the [Snapshot Docs](https://docs.snapshot.org/guides/delegation). Deployed on the Ethereum mainnet at [`0x469788fE6E9E9681C6ebF3bF78e7Fd26Fc015446`](https://etherscan.io/address/0x469788fE6E9E9681C6ebF3bF78e7Fd26Fc015446).
