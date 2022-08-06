@@ -24,9 +24,7 @@ Stewards must agree to act in accordance with the will of the DAO, as expressed 
 
 ### 1) Submission
 
-Anyone holding a Peace DAO Movement NFT[^2] may submit a Proposal to the `#✍│proposals` channel in the [DAO's Discord](https://discord.gg/movexyz). All submissions must be discussed and workshopped by the DAO community in public Peace Ops meetings.
-
-**Peace Funding Initiatives** ("PFI"s) are proposals to fund relief efforts. All other Proposals are **Peace DAO Proposals** ("PDP"s).
+Anyone holding a Peace DAO Movement NFT[^2] may submit a Proposal to the `#✍│proposals` channel in the [DAO's Discord](https://discord.gg/movexyz). **Peace Funding Initiatives** ("PFI"s) are proposals to fund relief efforts. All other Proposals are **Peace DAO Proposals** ("PDP"s).
 
 Proposals must include:
 - The name of the author(s).
@@ -35,7 +33,7 @@ Proposals must include:
 
 ### 2) Snapshot Voting
 
-Stewards may endorse a Proposal by publicly stating their support and publishing the proposal to the [DAO's Snapshot Space](https://snapshot.org/#/peace.movedao.eth) for Basic voting with a 5 day Voting period. Proposals must be announced in the DAO's Discord at least 24 hours before voting opens. Donors can elect to be emailed with voting and delegation instructions.
+Stewards may endorse a Proposal by publicly stating their support and publishing the proposal to the [DAO's Snapshot Space](https://snapshot.org/#/peace.movedao.eth) for Basic voting with a 5 day Voting period. Proposals must be announced in the DAO's Discord before voting opens.
 
 When publishing Proposals, Stewards must include:
 - The name(s) of the Steward(s) endorsing it.
