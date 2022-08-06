@@ -50,7 +50,7 @@ Proposals which receive affirmative votes amounting to at least 60% of total vot
 
 In an emergency scenario, the Council can take onchain actions if explicit public approval from 80 percent or more of Coucil members and explicit public approval from dao-lawfirm.eth is received.
 
-[^1]: Peace DAO's Gnosis Multi-Signature Safe can be found on the Ethereum mainnet at `0xD2427c0e44D28Ea74c0504E072c6073d135569B2`.
-[^2]: Peace Movement DAO's Mainnet Ethereum NFT: `0x1c43E7Fb2885d9FF4403521eAE41d7943F7f51Ee` [*OpenSea*](https://opensea.io/collection/peace-dao-distortion-v2).
-[^3]: Peace Movement DAO's Mainnet Ethereum Token: `0xdE43304bD02E5517a1B646179eb9612b5d58E6A1`
+[^1]: Peace DAO's Gnosis Multi-Signature Safe can be found on the Ethereum mainnet at [`0xD2427c0e44D28Ea74c0504E072c6073d135569B2`](https://etherscan.io/address/0xD2427c0e44D28Ea74c0504E072c6073d135569B2).
+[^2]: Peace Movement DAO's Mainnet Ethereum NFT: [`0x1c43E7Fb2885d9FF4403521eAE41d7943F7f51Ee`](https://etherscan.io/address/0x1c43E7Fb2885d9FF4403521eAE41d7943F7f51Ee) [*OpenSea*](https://opensea.io/collection/peace-dao-distortion-v2).
+[^3]: Peace Movement DAO's Mainnet Ethereum Token: [`0xdE43304bD02E5517a1B646179eb9612b5d58E6A1`](https://etherscan.io/token/0xdE43304bD02E5517a1B646179eb9612b5d58E6A1). To reduce gas fees, newly issued $PEACE tokens are stored in the Juicebox TicketBooth contract ("staked"). The above ERC-20 contract reflects the total supply of minted ERC-20 $PEACE tokens. To ascertain the total supply of claimed (ERC-20) and unclaimed ("staked") $PEACE tokens, call the totalSupplyOf() function on the TicketBooth contract deployed to [`0xee2eBCcB7CDb34a8A822b589F9E8427C24351bfc`](https://etherscan.io/address/0xee2eBCcB7CDb34a8A822b589F9E8427C24351bfc), passing the desired address and project id **528** as arguments.
 [^4]: See the [Snapshot Docs](https://docs.snapshot.org/guides/delegation). Deployed on the Ethereum mainnet at [`0x469788fE6E9E9681C6ebF3bF78e7Fd26Fc015446`](https://etherscan.io/address/0x469788fE6E9E9681C6ebF3bF78e7Fd26Fc015446).
