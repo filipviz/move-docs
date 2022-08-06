@@ -112,9 +112,9 @@ Capitalized terms used herein have the meanings ascribed to them in the [Definit
 
 The DAO is an unincorporated association of individuals, corporations, statutory trusts, business trusts, estates, trusts, partnerships, limited liability companies, associations, joint ventures, and other legal or commercial entities, many of whom, if not all of whom, agree to join together for a common, nonprofit purpose. For the DAO, that purpose is encapsulated in its mission statement.
 
-The DAO is not intended to be or become an entity required to register as an “investment company” as defined in Section3(a)(1)(A) of the Investment Company Act of 1940, as amended.
+The DAO is not intended to be or become an entity required to register as an “investment company” as defined in Section 3(a)(1)(A) of the Investment Company Act of 1940, as amended.
 
-*See the [Expanded Misson and Purpose](./purpose.md).*
+*See the [Expanded Mission and Purpose](./purpose.md).*
 
 #### 2. Membership; Governance Rights and Tokens; Limitations.
 

@@ -9,7 +9,7 @@ Last Updated: August 5th, 2022
 
 ### Introduction
 
-Please read these terms of service (“Terms”) carefully. These Terms are between you and Peace DAO (the “DAO,” “we,” “us,” or “our”) concerning your use of the DAO sites, including the sites currently located at [https://peace.move.xyz](https://peace.move.xyz), [https://discord.gg/movexyz](https://discord.gg/movexyz), [https://doc.move.xyz](https://doc.move.xyz), and [https://juicebox.money/p/peace](https://juicebox.money/p/peace) (the "Site" or "Sites") which operates on the Juicebox Protocol available on Ethereum via [smart contracts](./contract-addresses.md)(“Smart Contracts”).
+Please read these terms of service (“Terms”) carefully. These Terms are between you and Peace DAO (the “DAO,” “we,” “us,” or “our”) concerning your use of the DAO sites, including the sites currently located at [https://peace.move.xyz](https://peace.move.xyz), [https://discord.gg/movexyz](https://discord.gg/movexyz), [https://doc.move.xyz](https://doc.move.xyz), and [https://juicebox.money/p/peace](https://juicebox.money/p/peace) (the "Site" or "Sites") which operates on the Juicebox Protocol available on Ethereum via [smart contracts](./contract-addresses.md) (“Smart Contracts”).
 
 These Terms apply to you (“you,” or “User”) as a user of the Site information made available on the Site.
 
@@ -35,7 +35,7 @@ The DAO protocol runs entirely on publicly accessible smart contracts explained 
 
 ### Source Code Repositories
 
-No Warranties. Juicebox DAO's source code repository ("Respository") is only a presentation of information regarding certain view points and technologies. The statements contained in the Repository do not provide any advice, representation, warranty, certification, guarantee or promise relating to these technologies, any uses thereof or any of the other matters discussed in the Repository, nor does the Repository provide an offer or agreement to make such technologies available, maintain or update such technologies, or sell or buy any asset or enter into any transaction. You should not rely on the Repository as a basis for making any financial or other decision.
+No Warranties. Juicebox DAO's source code repository ("Repository") is only a presentation of information regarding certain view points and technologies. The statements contained in the Repository do not provide any advice, representation, warranty, certification, guarantee or promise relating to these technologies, any uses thereof or any of the other matters discussed in the Repository, nor does the Repository provide an offer or agreement to make such technologies available, maintain or update such technologies, or sell or buy any asset or enter into any transaction. You should not rely on the Repository as a basis for making any financial or other decision.
 
 ### The Decentralized Application
 
@@ -52,7 +52,7 @@ We will not be liable to you for any loss or damage you may suffer as a result o
 **As a condition to accessing or using the Site, you will:**
 1. only use the Site in accordance with these Terms;
 2. ensure that all information that you provide on the Site is current, complete, and accurate;
-3. ensure compliance with all U.S. securities laws; and
+3. ensure compliance with all U.S. Securities laws; and
 4. maintain the security and confidentiality of access to your Cryptocurrency Wallet address.
 
 **As a condition to accessing or using the Site, you will not:**
