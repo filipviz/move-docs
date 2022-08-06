@@ -1,5 +1,5 @@
 ---
-title: "Founding Documents"
+title: "Peace DAO Foundation"
 description: "Peace DAO's operational, legal, and governmental documents"
 lead: "Peace DAO's operational, legal, and governmental documents"
 draft: false

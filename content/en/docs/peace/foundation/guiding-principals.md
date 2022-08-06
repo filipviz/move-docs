@@ -1,5 +1,5 @@
 ---
-title: "PeaceDAO Guiding Principles"
+title: "Peace DAO Guiding Principles"
 lead: "The guiding principles for PeaceDAO, an unincorporated nonprofit association organized under the laws of the State of Delaware."
 description: "The guiding principles for PeaceDAO, an unincorporated nonprofit association organized under the laws of the State of Delaware."
 draft: false
