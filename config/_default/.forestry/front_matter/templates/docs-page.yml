@@ -20,6 +20,7 @@ fields:
   description: A lower number will appear earlier in lists and sidebars.
 pages:
 - content/en/docs/Guides/governance-frameworks.md
+- content/en/docs/Guides/governance-process.md
 - content/en/docs/Guides/governance-tokens.md
 - content/en/docs/Guides/multi-signature-wallets-multi-sigs.md
 - content/en/docs/Guides/what-is-a-decentralized-autonomous-organization-dao.md
