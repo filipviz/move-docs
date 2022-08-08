@@ -9,19 +9,35 @@ weight = 1
 +++
 # Definition
 
-Treasuries are where digital assets are stored and can be managed from, where the assets are managed by more than one party, usually in the form of a multi-signature wallet. Generally, treasuries are managed or directed by a group of people that own governance tokens that represent an amount of decision-making authority over a treasury’s assets.
+Treasuries are the combination of assets, either digital or physical, that are held, managed, and shared collectively by groups of people in distributed organizations, such as DAOs.
 
-Similar to the concept of corporate treasuries in business, treasuries in Web3 are often referred to in DAO parlance, defining the place where the DAO’s assets are held and managed.
+# Details
 
-However, the concept of a treasury in Web3 exists outside of DAOs as well. Treasuries are the building blocks of distributed organizations and groups of people who want to share assets, such as DAOs, co-ops, or collectives. They have the ability to interface with Web3 tools & DeFi.
+Treasuries in digitally-native organizations usually take the form of multi-signature wallets. However, the place where the assets are stored is technically irrelevant and could be in a bank account or some other account or ledger.
 
-# Move Treasuries
+Generally, treasuries are managed or directed by a group of people that own governance tokens that represent an amount of decision-making authority over a treasury’s assets.
 
-The Move platform provides treasuries that are programmable. They are akin to Web3-powered accounts that can receive funds and transparently and automatically distribute funds & digital assets (e.g., governance tokens) based on a set of rules. Tokens or NFTs that can be minted by the treasury system can represent given utilities or governance power over the treasury’s assets. The treasury can be managed by a distributed group of people using a treasury’s native token and/or NFTs through Web3 voting tools like [Snapshot](https://snapshot.org/), or eventually through the Move platform directly.
+Treasuries are the backbone of distributed organizations and groups of people who want to share assets, such as DAOs, digital co-ops, or collectives. Treasuries that have assets stored on cryptographic wallets have the ability to interface with Web3 tools & DeFi.
+
+# Treasury Systems
+
+## Definition
+
+Treasury systems are software systems that help to enhance or provide additional functionality to digital wallets (e.g., multi-sigs) in the management of a treasury.
+
+## Features
+
+Treasury systems help people better manage how their treasuries are funded and how funds and governance are distributed. They can also help provide greater trust because rules can be enforced by smart contracts, protecting stakeholders from scams or rug pulls.
+
+Treasury systems are still a new and emerging concept, pioneered by the [Juicebox Protocol](https://info.juicebox.money/dev/learn/overview). The general features that make up a treasury system include:
+
+* Control conditions surrounding treasury inflows and outflows
+* Set rules or conditions on how the treasury operates, enforced by smart contracts
+* Automated minting of tokens, such as governance tokens, based on a defined set of rules
 
 # Use-Cases
 
-Treasuries have been used to power:
+Treasuries and treasury systems have been used to power:
 
 * Decentralized grant giving entities & investment clubs
 * One-time or recurring fundraisers (e.g., non-profit, humanitarian aid fund)
