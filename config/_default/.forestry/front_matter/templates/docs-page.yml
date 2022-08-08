@@ -19,4 +19,5 @@ fields:
   label: weight
   description: A lower number will appear earlier in lists and sidebars.
 pages:
+- content/en/docs/Guides/what-is-a-decentralized-autonomous-organization-dao.md
 - content/en/docs/Guides/what-is-a-treasury.md
